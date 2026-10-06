@@ -1,0 +1,33 @@
+Received: by 2002:a05:7011:a06:b0:52f:5dd6:d619 with SMTP id ha6csp3491789mdb;
+        Thu, 30 Jul 2026 09:19:35 -0700 (PDT)
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id 5b1f17b1804b1-498011c9a01sor4544925e9.4.2026.07.30.09.19.35
+        for <abdelrhmanmosaad900@gmail.com>
+        (Google Transport Security);
+        Thu, 30 Jul 2026 09:19:35 -0700 (PDT)
+Received: from DC01 ([156.203.144.33])
+        by smtp.gmail.com with ESMTPSA id 5b1f17b1804b1-498010a051csm68124785e9.11.2026.07.30.09.19.33
+        for <abdelrhmanmosaad900@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 30 Jul 2026 09:19:33 -0700 (PDT)
+From: "abdelrhmanmosaad9@gmail.com" <abdelrhmanmosaad9@gmail.com>
+To: "abdelrhmanmosaad900@gmail.com" <abdelrhmanmosaad900@gmail.com>
+Subject: Critical: Account Lockout Alert!
+Thread-Topic: Critical: Account Lockout Alert!
+Thread-Index: ATQ4MzEuNm6rUEJQMSvmMbfLeDovTA==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Thu, 30 Jul 2026 16:19:33 +0000
+Message-ID: <6a6b7995.87c5160c.3d0c68.3a74@mx.google.com>
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+received-spf: pass (google.com: domain of abdelrhmanmosaad9@gmail.com
+ designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <1983BCA67A52DF4AA8FF43924B64AECE@1>
+MIME-Version: 1.0
+
+Alert: The user account: tamer.hassan has been locked out from computer: HR-WIN at 7/30/2026 6:19:33 PM The account lockout was triggered because incorrect credentials (password) were entered consecutively 4 times, violating the local account lockout policy threshold.
+
